@@ -1,0 +1,7 @@
+{
+  "greeting": "Welcome to React and react-i18next",
+  "description": {
+    "line1": "I'm learning multi language system",
+    "line2": "This is a simple and easy way to"
+  }
+}
